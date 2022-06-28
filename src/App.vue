@@ -1,7 +1,10 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
+    <router-link to="/">Tailwind basiscs</router-link> |
     <router-link to="/about">About</router-link>
+    <router-link to="/layout">Layout</router-link>
+    <router-link to="/FlexBasics">FlexBasics</router-link>
+    
   </nav>
   <router-view/>
 </template>
